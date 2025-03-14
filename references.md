@@ -1,1 +1,4 @@
-- [SCP-8900-EX - SCP財団](http://scp-jp.wikidot.com/scp-8900-ex)
+# References
+
+* octocat 1 😈
+* 
